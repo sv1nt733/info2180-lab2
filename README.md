@@ -1,1 +1,3 @@
-# info2180-lab2
+# INFO2180 Lab 1
+
+This is Lab 1 for Dillon Waugh
